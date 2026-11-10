@@ -15,12 +15,9 @@
 
   <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C2128,100:161B22&height=220&section=header&text=Infas%20MK&fontSize=42&fontColor=F0F0
-  F0&fontAlign=50&fontAlignY=34&desc=Building%20digital%20experiences%20with%20code%2C%20creativity%20%26%20innovation.&descAlign=50&descAlignY=52&descSize=
-  15&animation=twinkling" width="100%" alt="Infas MK — Building digital experiences with code, creativity and innovation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C2128,100:161B22&height=220&section=header&text=Infas%20MK&fontSize=42&fontColor=F0F0F0&fontAlign=50&fontAlignY=34&desc=Building%20digital%20experiences%20with%20code%2C%20creativity%20%26%20innovation.&descAlign=50&descAlignY=52&descSize=15&animation=twinkling" width="100%" alt="Infas MK — Building digital experiences with code, creativity and innovation" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3000&pause=1100&color=A1A1AA&center=true&vCenter=true&width=540&hei
-  ght=40&lines=Frontend+Developer;UI%2FUX+Designer;Biomedical+Engineering+Student;Building+Digital+Experiences" alt="Frontend Developer, UI/UX Designer,
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3000&pause=1100&color=A1A1AA&center=true&vCenter=true&width=540&height=40&lines=Frontend+Developer;UI%2FUX+Designer;Biomedical+Engineering+Student;Building+Digital+Experiences" alt="Frontend Developer, UI/UX Designer,
   Biomedical Engineering Student, Building Digital Experiences" />
 
   <br/>
@@ -95,23 +92,19 @@
   <div align="center">
 
   <a href="https://github.com/infasmk">
-    <img src="https://github-readme-stats.vercel.app/api?username=infasmk&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0f0f0&icon_color=8b9
-  49e&text_color=c9d1d9&border_radius=8&custom_title=GitHub" height="165" alt="GitHub statistics for infasmk" />
+    <img src="https://github-readme-stats.vercel.app/api?username=infasmk&show_icons=true&hide_border=true&bg_color=0d1117&title_color=f0f0f0&icon_color=8b949e&text_color=c9d1d9&border_radius=8&custom_title=GitHub" height="165" alt="GitHub statistics for infasmk" />
   </a>
   <a href="https://github.com/infasmk">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infasmk&layout=compact&hide_border=true&bg_color=0d1117&title_color=f0f0f0&text
-  _color=c9d1d9&border_radius=8&langs_count=8&custom_title=Top%20languages" height="165" alt="Top languages for infasmk" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=infasmk&layout=compact&hide_border=true&bg_color=0d1117&title_color=f0f0f0&text_color=c9d1d9&border_radius=8&langs_count=8&custom_title=Top%20languages" height="165" alt="Top languages for infasmk" />
   </a>
 
   <br/><br/>
 
-  <img src="https://streak-stats.demolab.com?user=infasmk&hide_border=true&background=0D1117&stroke=21262D&ring=8B949E&fire=C9D1D9&currStreakNum=F0F0F0&side
-  Nums=C9D1D9&currStreakLabel=A1A1AA&sideLabels=8B949E&dates=6E7681&border_radius=8" alt="GitHub contribution streak for infasmk" />
+  <img src="https://streak-stats.demolab.com?user=infasmk&hide_border=true&background=0D1117&stroke=21262D&ring=8B949E&fire=C9D1D9&currStreakNum=F0F0F0&sideNums=C9D1D9&currStreakLabel=A1A1AA&sideLabels=8B949E&dates=6E7681&border_radius=8" alt="GitHub contribution streak for infasmk" />
 
   <br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=infasmk&bg_color=0d1117&color=8b949e&line=c9d1d9&point=f0f0f0&area=true&area_colo
-  r=161b22&hide_border=true&radius=8&custom_title=Contribution%20activity" width="100%" alt="GitHub contribution activity for infasmk" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=infasmk&bg_color=0d1117&color=8b949e&line=c9d1d9&point=f0f0f0&area=true&area_color=161b22&hide_border=true&radius=8&custom_title=Contribution%20activity" width="100%" alt="GitHub contribution activity for infasmk" />
 
   </div>
 
