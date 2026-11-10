@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=220&section=header&text=Infas%20MK&fontSize=64&fontColor=F0F0F0&fontAlignY=38&desc=Building%20digital%20experiences%20with%20code%2C%20creativity%20%26%20innovation.&descSize=16&descColor=A1A1AA&descAlignY=58&animation=fadeIn" alt="Infas MK header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=220&section=header&text=Infas%20MK&fontSize=64&fontColor=F0F0F0&fontAlignY=38&desc=Building%20digital%20experiences%20with%20code%2C%20creativity%20%26%20innovation.&descSize=16&descColor=A1A1AA&descAlignY=58&animation=twinkling" alt="Infas MK header" />
 
 <a href="https://github.com/infasmk">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=A1A1AA&center=true&vCenter=true&width=520&height=40&lines=Frontend+Developer;UI%2FUX+Designer;Biomedical+Engineering+Student;Building+Digital+Experiences" alt="Typing animation" />
@@ -196,6 +196,16 @@ I'm a **Frontend Developer** and **UI/UX Designer** studying **Biomedical Engine
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=infasmk&bg_color=0D1117&color=A1A1AA&line=8B949E&point=F0F0F0&area=true&area_color=161B22&hide_border=true&radius=8" alt="Contribution Activity Graph" />
 
+<br /><br />
+
+**Contribution Snake Animation**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/infasmk/Infasmk/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/infasmk/Infasmk/output/github-snake.svg" />
+  <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/infasmk/Infasmk/output/github-snake.svg" width="100%" />
+</picture>
+
 </div>
 
 <br />
@@ -240,4 +250,4 @@ I'm a **Frontend Developer** and **UI/UX Designer** studying **Biomedical Engine
 
 <!-- ═══════════════════════ FOOTER ═══════════════════════ -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=120&section=footer" alt="Footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:0D1117&height=140&section=footer&text=THANKS%20FOR%20VISITING&fontSize=18&fontColor=A1A1AA&fontAlignY=70&animation=twinkling" alt="Animated footer" />
