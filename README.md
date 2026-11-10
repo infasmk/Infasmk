@@ -9,7 +9,7 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=infasmk&color=7c3aed&style=for-the-badge&label=PROFILE+VIEWS)
-![Followers](https://img.shields.io/github/followers/infasmk?style=for-the-badge&color=7c3aed&logo=github&logoColor=white)
+![Public Repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/infasmk&query=$.public_repos&label=REPOSITORIES&style=for-the-badge&color=7c3aed&logo=github&logoColor=white)
 
 </div>
 
