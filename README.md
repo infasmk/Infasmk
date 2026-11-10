@@ -17,7 +17,7 @@
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1C2128,100:161B22&height=220&section=header&text=Infas%20MK&fontSize=42&fontColor=F0F0
   F0&fontAlign=50&fontAlignY=34&desc=Building%20digital%20experiences%20with%20code%2C%20creativity%20%26%20innovation.&descAlign=50&descAlignY=52&descSize=
-  15&animation=fadeIn" width="100%" alt="Infas MK — Building digital experiences with code, creativity and innovation" />
+  15&animation=twinkling" width="100%" alt="Infas MK — Building digital experiences with code, creativity and innovation" />
 
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=20&duration=3000&pause=1100&color=A1A1AA&center=true&vCenter=true&width=540&hei
   ght=40&lines=Frontend+Developer;UI%2FUX+Designer;Biomedical+Engineering+Student;Building+Digital+Experiences" alt="Frontend Developer, UI/UX Designer,
@@ -117,6 +117,20 @@
 
   ---
 
+  <br/>
+
+  <h2 align="center">Contribution Snake</h2>
+
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/infasmk/Infasmk/output/github-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/infasmk/Infasmk/output/github-snake.svg" />
+      <img src="https://raw.githubusercontent.com/infasmk/Infasmk/output/github-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
+    </picture>
+  </p>
+
+  ---
+
   <h2 align="center">Featured Projects</h2>
 
   <p align="center">A few things I’ve designed and built.</p>
@@ -178,4 +192,4 @@
 
   <p align="center"><sub>Infas MK · Biomedical Engineering · NIT Raipur</sub></p>
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:1C2128&height=120&section=footer" width="100%" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:161B22,100:1C2128&height=140&section=footer&text=THANKS%20FOR%20VISITING&fontSize=18&fontColor=A1A1AA&fontAlignY=70&animation=twinkling" width="100%" alt="Animated footer" />
